@@ -2,12 +2,14 @@
 I'm a design student in Brazil learning to make games and interfaces.
 
 - 🤩 I'm very interested in open source software and hope to contribute with it
-- 🌱 I’m currently learning gdscript for Godot and Kotlin for Android development
+- 🌱 I’m currently learning gdscript for Godot and CSS + Javascript for frontend development
 - 🖥 Current operating systems:
-  - ❄️ NixOS (Desktop and laptop, gaming, media, dev environment and studying)
+  - ❄️ NixOS (Laptop, for dev environment and studying)
+  - 🚀 CachyOS (Desktop, for gaming and media)
 - 🗺️ Languages:
   - 🇧🇷 Portuguese
   - 🇺🇸 English
+  - 🇳🇴 Norwegian (in progress)
 
 
 <!--
